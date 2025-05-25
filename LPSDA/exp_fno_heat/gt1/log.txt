@@ -1,0 +1,544 @@
+Experiment gt1
+Experiment start at: 2025-01-29 14:25:23.059978
+Applying no_transform (1/16)...
+no_transform completed.
+Applying transform 2/16...
+Transform 2 completed.
+Applying transform 3/16...
+Transform 3 completed.
+Applying transform 4/16...
+Transform 4 completed.
+Applying transform 5/16...
+Transform 5 completed.
+Applying transform 6/16...
+Transform 6 completed.
+Applying transform 7/16...
+Transform 7 completed.
+Applying transform 8/16...
+Transform 8 completed.
+Applying transform 9/16...
+Transform 9 completed.
+Applying transform 10/16...
+Transform 10 completed.
+Applying transform 11/16...
+Transform 11 completed.
+Applying transform 12/16...
+Transform 12 completed.
+Applying transform 13/16...
+Transform 13 completed.
+Applying transform 14/16...
+Transform 14 completed.
+Applying transform 15/16...
+Transform 15 completed.
+Applying transform 16/16...
+Transform 16 completed.
+Epoch 0
+Training Loss (progress: 0.00): 450.9725646972656
+Training Loss (progress: 0.35): 229.90283203125
+Training Loss (progress: 0.70): 54.33534622192383
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.01470017246901989
+Input 40 - 60, mean loss 0.006598472595214844
+Input 60 - 80, mean loss 0.0047870902344584465
+Unrolled forward losses: 0.0092 +- 0.0000
+Unrolled forward losses (normalized): 0.05198324 +- 0.00000000
+Saved model
+Evaluation on test dataset (new best validation):
+Input 20 - 40, mean loss 0.04799313098192215
+Input 40 - 60, mean loss 0.014197786338627338
+Input 60 - 80, mean loss 0.009132063016295433
+Unrolled forward losses: 0.0251 +- 0.0000
+Unrolled forward losses (normalized): 0.13400549 +- 0.00000000
+current time: 2025-01-29 14:25:33.156392
+Epoch 1
+Training Loss (progress: 0.00): 37.993865966796875
+Training Loss (progress: 0.35): 52.03768539428711
+Training Loss (progress: 0.70): 4.048266887664795
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.010618431493639946
+Input 40 - 60, mean loss 0.004603586159646511
+Input 60 - 80, mean loss 0.003251987276598811
+Unrolled forward losses: 0.0062 +- 0.0000
+Unrolled forward losses (normalized): 0.06558875 +- 0.00000000
+Saved model
+Evaluation on test dataset (new best validation):
+Input 20 - 40, mean loss 0.04733601212501526
+Input 40 - 60, mean loss 0.012512970715761185
+Input 60 - 80, mean loss 0.0071325539611279964
+Unrolled forward losses: 0.0264 +- 0.0000
+Unrolled forward losses (normalized): 0.13962688 +- 0.00000002
+current time: 2025-01-29 14:25:36.158595
+Epoch 2
+Training Loss (progress: 0.00): 39.42155075073242
+Training Loss (progress: 0.35): 14.014368057250977
+Training Loss (progress: 0.70): 21.18177604675293
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.010286846198141575
+Input 40 - 60, mean loss 0.005199118051677942
+Input 60 - 80, mean loss 0.0037325951270759106
+Unrolled forward losses: 0.0071 +- 0.0000
+Unrolled forward losses (normalized): 0.06861737 +- 0.00000000
+current time: 2025-01-29 14:25:38.905431
+Epoch 3
+Training Loss (progress: 0.00): 35.47036361694336
+Training Loss (progress: 0.35): 9.6419095993042
+Training Loss (progress: 0.70): 15.57144832611084
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.00836663693189621
+Input 40 - 60, mean loss 0.003999114502221346
+Input 60 - 80, mean loss 0.002712428569793701
+Unrolled forward losses: 0.0058 +- 0.0000
+Unrolled forward losses (normalized): 0.07271776 +- 0.00000000
+Saved model
+Evaluation on test dataset (new best validation):
+Input 20 - 40, mean loss 0.04514255002140999
+Input 40 - 60, mean loss 0.010866492055356503
+Input 60 - 80, mean loss 0.0057866135612130165
+Unrolled forward losses: 0.0291 +- 0.0000
+Unrolled forward losses (normalized): 0.15077384 +- 0.00000000
+current time: 2025-01-29 14:25:41.816763
+Epoch 4
+Training Loss (progress: 0.00): 13.459579467773438
+Training Loss (progress: 0.35): 14.62753963470459
+Training Loss (progress: 0.70): 16.043352127075195
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.00837200228124857
+Input 40 - 60, mean loss 0.004205343779176474
+Input 60 - 80, mean loss 0.0027950014919042587
+Unrolled forward losses: 0.0065 +- 0.0000
+Unrolled forward losses (normalized): 0.07675225 +- 0.00000001
+current time: 2025-01-29 14:25:44.280976
+Epoch 5
+Training Loss (progress: 0.00): 22.324499130249023
+Training Loss (progress: 0.35): 11.028388023376465
+Training Loss (progress: 0.70): 21.304258346557617
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.007593180984258652
+Input 40 - 60, mean loss 0.0038640382699668407
+Input 60 - 80, mean loss 0.0025466345250606537
+Unrolled forward losses: 0.0063 +- 0.0000
+Unrolled forward losses (normalized): 0.07539154 +- 0.00000000
+current time: 2025-01-29 14:25:47.402810
+Epoch 6
+Training Loss (progress: 0.00): 35.30718994140625
+Training Loss (progress: 0.35): 1.8586632013320923
+Training Loss (progress: 0.70): 8.14582347869873
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.007019872777163982
+Input 40 - 60, mean loss 0.003632791806012392
+Input 60 - 80, mean loss 0.0023967758752405643
+Unrolled forward losses: 0.0062 +- 0.0000
+Unrolled forward losses (normalized): 0.07808141 +- 0.00000000
+current time: 2025-01-29 14:25:49.914648
+Epoch 7
+Training Loss (progress: 0.00): 20.738494873046875
+Training Loss (progress: 0.35): 2.317883253097534
+Training Loss (progress: 0.70): 11.007415771484375
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.006538539193570614
+Input 40 - 60, mean loss 0.0034838630817830563
+Input 60 - 80, mean loss 0.0023567816242575645
+Unrolled forward losses: 0.0060 +- 0.0000
+Unrolled forward losses (normalized): 0.07755832 +- 0.00000000
+current time: 2025-01-29 14:25:52.395273
+Epoch 8
+Training Loss (progress: 0.00): 2.6695144176483154
+Training Loss (progress: 0.35): 40.46479797363281
+Training Loss (progress: 0.70): 3.2331485748291016
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.0058699180372059345
+Input 40 - 60, mean loss 0.00317073124460876
+Input 60 - 80, mean loss 0.0021564317867159843
+Unrolled forward losses: 0.0057 +- 0.0000
+Unrolled forward losses (normalized): 0.07429388 +- 0.00000000
+Saved model
+Evaluation on test dataset (new best validation):
+Input 20 - 40, mean loss 0.02490701526403427
+Input 40 - 60, mean loss 0.007302527315914631
+Input 60 - 80, mean loss 0.00415803212672472
+Unrolled forward losses: 0.0141 +- 0.0000
+Unrolled forward losses (normalized): 0.07909954 +- 0.00000001
+current time: 2025-01-29 14:25:55.448899
+Epoch 9
+Training Loss (progress: 0.00): 2.2596895694732666
+Training Loss (progress: 0.35): 4.700537204742432
+Training Loss (progress: 0.70): 6.634671211242676
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.005514904391020536
+Input 40 - 60, mean loss 0.0030831736512482166
+Input 60 - 80, mean loss 0.0021311850287020206
+Unrolled forward losses: 0.0057 +- 0.0000
+Unrolled forward losses (normalized): 0.06925860 +- 0.00000000
+Saved model
+Evaluation on test dataset (new best validation):
+Input 20 - 40, mean loss 0.022346701472997665
+Input 40 - 60, mean loss 0.007228224538266659
+Input 60 - 80, mean loss 0.004245522432029247
+Unrolled forward losses: 0.0124 +- 0.0000
+Unrolled forward losses (normalized): 0.07126368 +- 0.00000001
+current time: 2025-01-29 14:25:58.350728
+Epoch 10
+Training Loss (progress: 0.00): 14.85716724395752
+Training Loss (progress: 0.35): 27.785816192626953
+Training Loss (progress: 0.70): 12.982156753540039
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.005036575719714165
+Input 40 - 60, mean loss 0.0029171486385166645
+Input 60 - 80, mean loss 0.002127476502209902
+Unrolled forward losses: 0.0047 +- 0.0000
+Unrolled forward losses (normalized): 0.07429039 +- 0.00000001
+Saved model
+Evaluation on test dataset (new best validation):
+Input 20 - 40, mean loss 0.021928850561380386
+Input 40 - 60, mean loss 0.006990798749029636
+Input 60 - 80, mean loss 0.004026263486593962
+Unrolled forward losses: 0.0123 +- 0.0000
+Unrolled forward losses (normalized): 0.07059551 +- 0.00000001
+current time: 2025-01-29 14:26:01.246880
+Epoch 11
+Training Loss (progress: 0.00): 7.633798122406006
+Training Loss (progress: 0.35): 2.2855491638183594
+Training Loss (progress: 0.70): 4.4704670906066895
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.005546067375689745
+Input 40 - 60, mean loss 0.0032252564560621977
+Input 60 - 80, mean loss 0.002276649000123143
+Unrolled forward losses: 0.0055 +- 0.0000
+Unrolled forward losses (normalized): 0.07277022 +- 0.00000000
+current time: 2025-01-29 14:26:03.789214
+Epoch 12
+Training Loss (progress: 0.00): 2.7627334594726562
+Training Loss (progress: 0.35): 3.3783295154571533
+Training Loss (progress: 0.70): 2.3010919094085693
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.0046540070325136185
+Input 40 - 60, mean loss 0.002772371517494321
+Input 60 - 80, mean loss 0.002051361370831728
+Unrolled forward losses: 0.0045 +- 0.0000
+Unrolled forward losses (normalized): 0.07790286 +- 0.00000001
+Saved model
+Evaluation on test dataset (new best validation):
+Input 20 - 40, mean loss 0.020749393850564957
+Input 40 - 60, mean loss 0.006574405822902918
+Input 60 - 80, mean loss 0.0038349879905581474
+Unrolled forward losses: 0.0115 +- 0.0000
+Unrolled forward losses (normalized): 0.06715843 +- 0.00000000
+current time: 2025-01-29 14:26:06.567031
+Epoch 13
+Training Loss (progress: 0.00): 1.6220029592514038
+Training Loss (progress: 0.35): 1.1034677028656006
+Training Loss (progress: 0.70): 2.425457000732422
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004933823831379414
+Input 40 - 60, mean loss 0.00286752637475729
+Input 60 - 80, mean loss 0.0020204156171530485
+Unrolled forward losses: 0.0050 +- 0.0000
+Unrolled forward losses (normalized): 0.07498545 +- 0.00000001
+current time: 2025-01-29 14:26:08.991358
+Epoch 14
+Training Loss (progress: 0.00): 3.02079439163208
+Training Loss (progress: 0.35): 9.497485160827637
+Training Loss (progress: 0.70): 2.504281759262085
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.0061999233439564705
+Input 40 - 60, mean loss 0.004089534282684326
+Input 60 - 80, mean loss 0.003172296565026045
+Unrolled forward losses: 0.0057 +- 0.0000
+Unrolled forward losses (normalized): 0.07166427 +- 0.00000000
+current time: 2025-01-29 14:26:11.637604
+Epoch 15
+Training Loss (progress: 0.00): 6.342827320098877
+Training Loss (progress: 0.35): 10.569476127624512
+Training Loss (progress: 0.70): 5.436338901519775
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004934905096888542
+Input 40 - 60, mean loss 0.002888079732656479
+Input 60 - 80, mean loss 0.0020489459857344627
+Unrolled forward losses: 0.0052 +- 0.0000
+Unrolled forward losses (normalized): 0.07076865 +- 0.00000001
+current time: 2025-01-29 14:26:14.540382
+Epoch 16
+Training Loss (progress: 0.00): 4.596729278564453
+Training Loss (progress: 0.35): 5.3329620361328125
+Training Loss (progress: 0.70): 2.6574859619140625
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.00519381370395422
+Input 40 - 60, mean loss 0.0031091587152332067
+Input 60 - 80, mean loss 0.00221507647074759
+Unrolled forward losses: 0.0056 +- 0.0000
+Unrolled forward losses (normalized): 0.06972346 +- 0.00000000
+current time: 2025-01-29 14:26:17.438231
+Epoch 17
+Training Loss (progress: 0.00): 2.0808725357055664
+Training Loss (progress: 0.35): 6.526777744293213
+Training Loss (progress: 0.70): 3.480517625808716
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.0049422550946474075
+Input 40 - 60, mean loss 0.002982799895107746
+Input 60 - 80, mean loss 0.0021364467684179544
+Unrolled forward losses: 0.0057 +- 0.0000
+Unrolled forward losses (normalized): 0.06954133 +- 0.00000001
+current time: 2025-01-29 14:26:20.378215
+Epoch 18
+Training Loss (progress: 0.00): 14.391433715820312
+Training Loss (progress: 0.35): 4.2147440910339355
+Training Loss (progress: 0.70): 0.4622777998447418
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004451705142855644
+Input 40 - 60, mean loss 0.002716398099437356
+Input 60 - 80, mean loss 0.0019916335586458445
+Unrolled forward losses: 0.0049 +- 0.0000
+Unrolled forward losses (normalized): 0.07145935 +- 0.00000000
+current time: 2025-01-29 14:26:23.694028
+Epoch 19
+Training Loss (progress: 0.00): 53.44527816772461
+Training Loss (progress: 0.35): 2.558264970779419
+Training Loss (progress: 0.70): 0.4447545111179352
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004361524246633053
+Input 40 - 60, mean loss 0.002712834160774946
+Input 60 - 80, mean loss 0.002014166908338666
+Unrolled forward losses: 0.0048 +- 0.0000
+Unrolled forward losses (normalized): 0.07530110 +- 0.00000001
+current time: 2025-01-29 14:26:26.875476
+Epoch 20
+Training Loss (progress: 0.00): 5.696914196014404
+Training Loss (progress: 0.35): 9.61369514465332
+Training Loss (progress: 0.70): 8.034011840820312
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004646474029868841
+Input 40 - 60, mean loss 0.002841089852154255
+Input 60 - 80, mean loss 0.002036993857473135
+Unrolled forward losses: 0.0054 +- 0.0000
+Unrolled forward losses (normalized): 0.07086944 +- 0.00000000
+current time: 2025-01-29 14:26:29.710353
+Epoch 21
+Training Loss (progress: 0.00): 1.6006605625152588
+Training Loss (progress: 0.35): 3.523793935775757
+Training Loss (progress: 0.70): 29.340259552001953
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004666013177484274
+Input 40 - 60, mean loss 0.002865887712687254
+Input 60 - 80, mean loss 0.0020586312748491764
+Unrolled forward losses: 0.0054 +- 0.0000
+Unrolled forward losses (normalized): 0.07174283 +- 0.00000000
+current time: 2025-01-29 14:26:32.847920
+Epoch 22
+Training Loss (progress: 0.00): 0.7818498611450195
+Training Loss (progress: 0.35): 3.275186538696289
+Training Loss (progress: 0.70): 0.9620100259780884
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004502899944782257
+Input 40 - 60, mean loss 0.002798124449327588
+Input 60 - 80, mean loss 0.0020344043150544167
+Unrolled forward losses: 0.0051 +- 0.0000
+Unrolled forward losses (normalized): 0.07292228 +- 0.00000000
+current time: 2025-01-29 14:26:35.432315
+Epoch 23
+Training Loss (progress: 0.00): 9.238210678100586
+Training Loss (progress: 0.35): 0.8651601672172546
+Training Loss (progress: 0.70): 4.3661627769470215
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004462422803044319
+Input 40 - 60, mean loss 0.0028163082897663116
+Input 60 - 80, mean loss 0.0020604096353054047
+Unrolled forward losses: 0.0049 +- 0.0000
+Unrolled forward losses (normalized): 0.07293982 +- 0.00000000
+current time: 2025-01-29 14:26:37.861539
+Epoch 24
+Training Loss (progress: 0.00): 1.5082670450210571
+Training Loss (progress: 0.35): 6.233367919921875
+Training Loss (progress: 0.70): 6.2492594718933105
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004159268923103809
+Input 40 - 60, mean loss 0.0027850698679685593
+Input 60 - 80, mean loss 0.0021988446824252605
+Unrolled forward losses: 0.0050 +- 0.0000
+Unrolled forward losses (normalized): 0.07413680 +- 0.00000001
+current time: 2025-01-29 14:26:40.514996
+Epoch 25
+Training Loss (progress: 0.00): 1.9504727125167847
+Training Loss (progress: 0.35): 0.45717883110046387
+Training Loss (progress: 0.70): 19.476837158203125
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004318409599363804
+Input 40 - 60, mean loss 0.0028318818658590317
+Input 60 - 80, mean loss 0.0021774298511445522
+Unrolled forward losses: 0.0053 +- 0.0000
+Unrolled forward losses (normalized): 0.07153680 +- 0.00000000
+current time: 2025-01-29 14:26:42.973100
+Epoch 26
+Training Loss (progress: 0.00): 1.9979490041732788
+Training Loss (progress: 0.35): 1.1673585176467896
+Training Loss (progress: 0.70): 1.6658509969711304
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004329298622906208
+Input 40 - 60, mean loss 0.0027623658534139395
+Input 60 - 80, mean loss 0.0020648776553571224
+Unrolled forward losses: 0.0050 +- 0.0000
+Unrolled forward losses (normalized): 0.07067563 +- 0.00000000
+current time: 2025-01-29 14:26:45.403855
+Epoch 27
+Training Loss (progress: 0.00): 5.582962989807129
+Training Loss (progress: 0.35): 2.760185718536377
+Training Loss (progress: 0.70): 2.1645283699035645
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004163005389273167
+Input 40 - 60, mean loss 0.002685646526515484
+Input 60 - 80, mean loss 0.0020251634996384382
+Unrolled forward losses: 0.0049 +- 0.0000
+Unrolled forward losses (normalized): 0.07048056 +- 0.00000000
+current time: 2025-01-29 14:26:47.940381
+Epoch 28
+Training Loss (progress: 0.00): 1.8402541875839233
+Training Loss (progress: 0.35): 2.254924774169922
+Training Loss (progress: 0.70): 5.659951210021973
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004138180520385504
+Input 40 - 60, mean loss 0.0027049416676163673
+Input 60 - 80, mean loss 0.0020789059344679117
+Unrolled forward losses: 0.0045 +- 0.0000
+Unrolled forward losses (normalized): 0.07052512 +- 0.00000000
+Saved model
+Evaluation on test dataset (new best validation):
+Input 20 - 40, mean loss 0.018534936010837555
+Input 40 - 60, mean loss 0.0069414833560585976
+Input 60 - 80, mean loss 0.00421744491904974
+Unrolled forward losses: 0.0092 +- 0.0000
+Unrolled forward losses (normalized): 0.06044919 +- 0.00000000
+current time: 2025-01-29 14:26:50.527654
+Epoch 29
+Training Loss (progress: 0.00): 0.7446925044059753
+Training Loss (progress: 0.35): 11.159518241882324
+Training Loss (progress: 0.70): 7.082269191741943
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004205574747174978
+Input 40 - 60, mean loss 0.002711985260248184
+Input 60 - 80, mean loss 0.0020375289022922516
+Unrolled forward losses: 0.0049 +- 0.0000
+Unrolled forward losses (normalized): 0.07001925 +- 0.00000001
+current time: 2025-01-29 14:26:53.045319
+Epoch 30
+Training Loss (progress: 0.00): 1.7521690130233765
+Training Loss (progress: 0.35): 1.3512009382247925
+Training Loss (progress: 0.70): 2.093177080154419
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.0041946410201489925
+Input 40 - 60, mean loss 0.002692116890102625
+Input 60 - 80, mean loss 0.002028669696301222
+Unrolled forward losses: 0.0048 +- 0.0000
+Unrolled forward losses (normalized): 0.07045705 +- 0.00000000
+current time: 2025-01-29 14:26:56.224302
+Epoch 31
+Training Loss (progress: 0.00): 0.3891800343990326
+Training Loss (progress: 0.35): 4.615222454071045
+Training Loss (progress: 0.70): 0.7142007350921631
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.00419666338711977
+Input 40 - 60, mean loss 0.0026886402629315853
+Input 60 - 80, mean loss 0.002029297174885869
+Unrolled forward losses: 0.0049 +- 0.0000
+Unrolled forward losses (normalized): 0.06915487 +- 0.00000000
+current time: 2025-01-29 14:26:59.361440
+Epoch 32
+Training Loss (progress: 0.00): 3.125269651412964
+Training Loss (progress: 0.35): 3.6629600524902344
+Training Loss (progress: 0.70): 2.6351394653320312
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004060528706759214
+Input 40 - 60, mean loss 0.0026554297655820847
+Input 60 - 80, mean loss 0.002036500722169876
+Unrolled forward losses: 0.0048 +- 0.0000
+Unrolled forward losses (normalized): 0.06945365 +- 0.00000001
+current time: 2025-01-29 14:27:01.794011
+Epoch 33
+Training Loss (progress: 0.00): 1.3811875581741333
+Training Loss (progress: 0.35): 0.7596040964126587
+Training Loss (progress: 0.70): 10.071365356445312
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.0041882311925292015
+Input 40 - 60, mean loss 0.002719524782150984
+Input 60 - 80, mean loss 0.002066268352791667
+Unrolled forward losses: 0.0047 +- 0.0000
+Unrolled forward losses (normalized): 0.06999328 +- 0.00000000
+current time: 2025-01-29 14:27:04.453308
+Epoch 34
+Training Loss (progress: 0.00): 6.683124542236328
+Training Loss (progress: 0.35): 2.437511444091797
+Training Loss (progress: 0.70): 1.5555191040039062
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004300185479223728
+Input 40 - 60, mean loss 0.002760079689323902
+Input 60 - 80, mean loss 0.002066359855234623
+Unrolled forward losses: 0.0051 +- 0.0000
+Unrolled forward losses (normalized): 0.06825021 +- 0.00000000
+current time: 2025-01-29 14:27:07.240440
+Epoch 35
+Training Loss (progress: 0.00): 2.4652669429779053
+Training Loss (progress: 0.35): 2.992805004119873
+Training Loss (progress: 0.70): 59.63351058959961
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.003953851293772459
+Input 40 - 60, mean loss 0.0026062612887471914
+Input 60 - 80, mean loss 0.002035688143223524
+Unrolled forward losses: 0.0045 +- 0.0000
+Unrolled forward losses (normalized): 0.06951871 +- 0.00000000
+Saved model
+Evaluation on test dataset (new best validation):
+Input 20 - 40, mean loss 0.018162338063120842
+Input 40 - 60, mean loss 0.006848657038062811
+Input 60 - 80, mean loss 0.004210413433611393
+Unrolled forward losses: 0.0088 +- 0.0000
+Unrolled forward losses (normalized): 0.05903596 +- 0.00000001
+current time: 2025-01-29 14:27:09.741225
+Epoch 36
+Training Loss (progress: 0.00): 0.6263595223426819
+Training Loss (progress: 0.35): 3.8579461574554443
+Training Loss (progress: 0.70): 20.129657745361328
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.00420902855694294
+Input 40 - 60, mean loss 0.002716311253607273
+Input 60 - 80, mean loss 0.0020552072674036026
+Unrolled forward losses: 0.0050 +- 0.0000
+Unrolled forward losses (normalized): 0.06838721 +- 0.00000000
+current time: 2025-01-29 14:27:12.372633
+Epoch 37
+Training Loss (progress: 0.00): 6.262972354888916
+Training Loss (progress: 0.35): 1.4379932880401611
+Training Loss (progress: 0.70): 0.9530569314956665
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004094931297004223
+Input 40 - 60, mean loss 0.0026798881590366364
+Input 60 - 80, mean loss 0.002042451873421669
+Unrolled forward losses: 0.0047 +- 0.0000
+Unrolled forward losses (normalized): 0.06951054 +- 0.00000000
+current time: 2025-01-29 14:27:15.015159
+Epoch 38
+Training Loss (progress: 0.00): 2.0086562633514404
+Training Loss (progress: 0.35): 19.438743591308594
+Training Loss (progress: 0.70): 0.987773597240448
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.004017265047878027
+Input 40 - 60, mean loss 0.002632678486406803
+Input 60 - 80, mean loss 0.0020291514229029417
+Unrolled forward losses: 0.0047 +- 0.0000
+Unrolled forward losses (normalized): 0.06863502 +- 0.00000000
+current time: 2025-01-29 14:27:17.282285
+Epoch 39
+Training Loss (progress: 0.00): 2.4091451168060303
+Training Loss (progress: 0.35): 8.048680305480957
+Training Loss (progress: 0.70): 3.0133228302001953
+Evaluation on validation dataset:
+Input 20 - 40, mean loss 0.003988742828369141
+Input 40 - 60, mean loss 0.0026292805559933186
+Input 60 - 80, mean loss 0.0020433994941413403
+Unrolled forward losses: 0.0046 +- 0.0000
+Unrolled forward losses (normalized): 0.06853652 +- 0.00000000
+current time: 2025-01-29 14:27:19.813776
+Final evaluation on test dataset:
+Input 20 - 40, mean loss 0.018162338063120842
+Input 40 - 60, mean loss 0.006848657038062811
+Input 60 - 80, mean loss 0.004210413433611393
+Unrolled forward losses: 0.0088 +- 0.0000
+Unrolled forward losses (normalized): 0.05903596 +- 0.00000001
+Experiment end at: 2025-01-29 14:27:19.867952

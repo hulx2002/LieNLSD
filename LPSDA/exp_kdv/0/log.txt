@@ -1,0 +1,1003 @@
+Experiment 0
+Experiment start at: 2025-05-25 20:04:14.335354
+Epoch 0, Total Loss: 2.6374
+  PDE Loss: 1.0443
+  PDE Loss Each: [1.0339046 1.1612157 0.9485324 1.0336932]
+  Ortho Loss: 1.5931
+  Ortho Loss Each: [0.        0.1920191 0.3684807 1.5635811]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.304155  -3.659314  -2.8186235 -2.8301442]
+==================================================
+Epoch 1, Total Loss: 1.8922
+  PDE Loss: 0.3978
+  PDE Loss Each: [0.36201522 0.5766976  0.45277175 0.19966687]
+  Ortho Loss: 1.4944
+  Ortho Loss Each: [0.         0.1765229  0.30130586 1.5146943 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.4668403 -3.2199829 -2.7542918 -2.6582334]
+==================================================
+Epoch 2, Total Loss: 2.2090
+  PDE Loss: 0.8200
+  PDE Loss Each: [0.8243549  0.7117834  0.75151116 0.9921937 ]
+  Ortho Loss: 1.3890
+  Ortho Loss Each: [0.         0.14923441 0.23585768 1.4669709 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.3692155 -2.8243625 -2.7591798 -2.5315883]
+==================================================
+Epoch 3, Total Loss: 1.7288
+  PDE Loss: 0.4518
+  PDE Loss Each: [0.4288268  0.49446335 0.48999426 0.39372894]
+  Ortho Loss: 1.2771
+  Ortho Loss Each: [0.         0.12048797 0.17768495 1.4046144 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.3546786 -2.5030813 -2.7148387 -2.3681202]
+==================================================
+Epoch 4, Total Loss: 1.8151
+  PDE Loss: 0.6410
+  PDE Loss Each: [0.66562635 0.7327733  0.6468981  0.5188381 ]
+  Ortho Loss: 1.1741
+  Ortho Loss Each: [0.         0.09413914 0.1370678  1.334232  ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.365002  -2.294945  -2.6500351 -2.1888683]
+==================================================
+Epoch 5, Total Loss: 1.9272
+  PDE Loss: 0.8561
+  PDE Loss Each: [0.87100506 0.7748905  0.90754455 0.87098885]
+  Ortho Loss: 1.0711
+  Ortho Loss Each: [0.         0.06695684 0.11000923 1.2511586 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.354471  -2.1423042 -2.7557595 -1.9854503]
+==================================================
+Epoch 6, Total Loss: 1.8442
+  PDE Loss: 0.8543
+  PDE Loss Each: [1.1045891 0.8261848 0.7691407 0.7174142]
+  Ortho Loss: 0.9899
+  Ortho Loss Each: [0.         0.05852227 0.10953089 1.151834  ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.3468285 -2.0294824 -2.844787  -1.7611743]
+==================================================
+Epoch 7, Total Loss: 1.9904
+  PDE Loss: 1.0803
+  PDE Loss Each: [1.0665169 1.0574818 1.0887631 1.108565 ]
+  Ortho Loss: 0.9101
+  Ortho Loss Each: [0.         0.05083914 0.11845744 1.0441083 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.307612  -1.985062  -2.9328792 -1.5093726]
+==================================================
+Epoch 8, Total Loss: 1.8078
+  PDE Loss: 0.9657
+  PDE Loss Each: [1.0834473  0.76851225 1.0821499  0.92867774]
+  Ortho Loss: 0.8421
+  Ortho Loss Each: [0.         0.04998286 0.12381784 0.949038  ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.2948437 -1.9746746 -2.9881678 -1.2709894]
+==================================================
+Epoch 9, Total Loss: 1.2920
+  PDE Loss: 0.5259
+  PDE Loss Each: [0.33931515 0.6141489  0.4885396  0.66175085]
+  Ortho Loss: 0.7661
+  Ortho Loss Each: [0.         0.05150843 0.12449197 0.8454291 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.2943687 -1.9562435 -3.004817  -1.0556508]
+==================================================
+Epoch 10, Total Loss: 1.4798
+  PDE Loss: 0.7819
+  PDE Loss Each: [0.6979075 0.8187046 0.7084201 0.9027205]
+  Ortho Loss: 0.6979
+  Ortho Loss Each: [0.         0.05039851 0.12645471 0.75365657]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.3329725 -1.947433  -2.9463465 -0.8666251]
+==================================================
+Epoch 11, Total Loss: 1.0014
+  PDE Loss: 0.3530
+  PDE Loss Each: [0.43167183 0.14765441 0.47439924 0.3582485 ]
+  Ortho Loss: 0.6484
+  Ortho Loss Each: [0.         0.04755608 0.12740736 0.6895248 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.3724794 -1.9496846 -3.010435  -0.7109998]
+==================================================
+Epoch 12, Total Loss: 0.9147
+  PDE Loss: 0.2906
+  PDE Loss Each: [0.18404615 0.49281573 0.22345442 0.2622148 ]
+  Ortho Loss: 0.6241
+  Ortho Loss Each: [0.         0.0514489  0.10977737 0.67088586]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.459965   -1.984117   -3.2643929  -0.64351034]
+==================================================
+Epoch 13, Total Loss: 1.2205
+  PDE Loss: 0.6130
+  PDE Loss Each: [0.38096818 0.6382422  0.67545885 0.75713134]
+  Ortho Loss: 0.6075
+  Ortho Loss Each: [0.         0.05048518 0.09264413 0.6669304 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.4206676 -1.9853883 -3.153389  -0.5709885]
+==================================================
+Epoch 14, Total Loss: 1.5532
+  PDE Loss: 0.9578
+  PDE Loss Each: [1.148183  0.8796595 1.0313299 0.7720364]
+  Ortho Loss: 0.5954
+  Ortho Loss Each: [0.         0.05147465 0.08384907 0.6584928 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.3397007  -1.9733227  -2.9669635  -0.46377024]
+==================================================
+Epoch 15, Total Loss: 1.9396
+  PDE Loss: 1.3620
+  PDE Loss Each: [1.4904623 1.3671058 1.4035445 1.1870518]
+  Ortho Loss: 0.5776
+  Ortho Loss Each: [0.         0.05081884 0.08054086 0.63877076]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.3206134  -1.9827925  -2.9005415  -0.37925777]
+==================================================
+Epoch 16, Total Loss: 0.9642
+  PDE Loss: 0.4080
+  PDE Loss Each: [0.21384569 0.53051895 0.1911341  0.6966868 ]
+  Ortho Loss: 0.5561
+  Ortho Loss Each: [0.         0.04959345 0.07827011 0.61363435]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.307009   -1.9989014  -2.8795862  -0.33817807]
+==================================================
+Epoch 17, Total Loss: 1.2006
+  PDE Loss: 0.6593
+  PDE Loss Each: [0.66427606 0.6920814  0.68858546 0.59221274]
+  Ortho Loss: 0.5413
+  Ortho Loss Each: [0.         0.04518505 0.07416876 0.60241157]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.279844   -2.012695   -2.8801162  -0.31909013]
+==================================================
+Epoch 18, Total Loss: 1.0778
+  PDE Loss: 0.5507
+  PDE Loss Each: [0.56854135 0.6204087  0.70160216 0.31230524]
+  Ortho Loss: 0.5271
+  Ortho Loss Each: [0.         0.04089792 0.07191726 0.5899775 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.272851   -2.0247152  -2.8956118  -0.30270538]
+==================================================
+Epoch 19, Total Loss: 1.8152
+  PDE Loss: 1.3163
+  PDE Loss Each: [1.4993061 1.3434726 1.2431507 1.1790838]
+  Ortho Loss: 0.4990
+  Ortho Loss Each: [0.         0.0394427  0.06923059 0.55661196]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.2751484  -2.0291224  -2.9366186  -0.27842602]
+==================================================
+Epoch 20, Total Loss: 1.4100
+  PDE Loss: 0.9354
+  PDE Loss Each: [1.059743   0.95070666 0.88448066 0.84655   ]
+  Ortho Loss: 0.4746
+  Ortho Loss Each: [0.         0.04142157 0.06927995 0.5220893 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.285934  -2.0049055 -2.9850414 -0.2457385]
+==================================================
+Epoch 21, Total Loss: 0.7671
+  PDE Loss: 0.3163
+  PDE Loss Each: [0.40442964 0.33827385 0.2571117  0.2654198 ]
+  Ortho Loss: 0.4508
+  Ortho Loss Each: [0.         0.04013785 0.06534445 0.4956374 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.2994447  -2.0315428  -3.0444639  -0.21566433]
+==================================================
+Epoch 22, Total Loss: 1.2120
+  PDE Loss: 0.7788
+  PDE Loss Each: [0.69015265 0.9992604  0.45745382 0.96844023]
+  Ortho Loss: 0.4332
+  Ortho Loss Each: [0.         0.04114731 0.06150095 0.47494507]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.15414    -2.088902   -3.0993068  -0.19159889]
+==================================================
+Epoch 23, Total Loss: 1.1619
+  PDE Loss: 0.7244
+  PDE Loss Each: [0.8132755  0.7082057  0.75677377 0.61945873]
+  Ortho Loss: 0.4375
+  Ortho Loss Each: [0.         0.04066281 0.05342197 0.48921692]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.7715504 -2.1608238 -3.1504633 -0.2521824]
+==================================================
+Epoch 24, Total Loss: 1.4898
+  PDE Loss: 1.0386
+  PDE Loss Each: [0.9583314  1.2493597  1.1256658  0.82109576]
+  Ortho Loss: 0.4511
+  Ortho Loss Each: [0.         0.03943396 0.04922931 0.51285344]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.5177739  -2.2138636  -3.1564338  -0.44170928]
+==================================================
+Epoch 25, Total Loss: 1.5118
+  PDE Loss: 1.0479
+  PDE Loss Each: [0.9952016 1.1311754 0.9100142 1.1552608]
+  Ortho Loss: 0.4638
+  Ortho Loss Each: [0.         0.03732204 0.04785641 0.5332779 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.3748436  -2.2513258  -3.1532803  -0.68730736]
+==================================================
+Epoch 26, Total Loss: 0.8793
+  PDE Loss: 0.4151
+  PDE Loss Each: [0.4546937  0.5359774  0.40890777 0.260661  ]
+  Ortho Loss: 0.4642
+  Ortho Loss Each: [0.         0.03453569 0.05185902 0.53256804]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2853482 -2.2720897 -3.133875  -0.9681015]
+==================================================
+Epoch 27, Total Loss: 1.4383
+  PDE Loss: 0.9793
+  PDE Loss Each: [0.96205825 0.9026758  1.0067044  1.0458795 ]
+  Ortho Loss: 0.4590
+  Ortho Loss Each: [0.         0.03393324 0.05349525 0.5245403 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.236029  -2.279865  -3.0872612 -1.2413601]
+==================================================
+Epoch 28, Total Loss: 1.4409
+  PDE Loss: 0.9904
+  PDE Loss Each: [0.8864848  0.95568705 1.006761   1.1126038 ]
+  Ortho Loss: 0.4505
+  Ortho Loss Each: [0.         0.03715706 0.05546371 0.5080652 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.1415775 -2.273134  -3.0336764 -1.2200781]
+==================================================
+Epoch 29, Total Loss: 1.1778
+  PDE Loss: 0.7394
+  PDE Loss Each: [0.47093937 0.9431886  0.4773368  1.0662681 ]
+  Ortho Loss: 0.4384
+  Ortho Loss Each: [0.         0.03837164 0.05458872 0.49151286]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.0554245 -2.2816231 -2.9937232 -1.0713502]
+==================================================
+Epoch 30, Total Loss: 1.4573
+  PDE Loss: 1.0401
+  PDE Loss Each: [1.0491531 1.0664678 1.0997131 0.9452014]
+  Ortho Loss: 0.4171
+  Ortho Loss Each: [0.         0.03687016 0.05185843 0.46746942]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.024255  -2.2941027 -2.9715254 -0.9270015]
+==================================================
+Epoch 31, Total Loss: 1.4804
+  PDE Loss: 1.0923
+  PDE Loss Each: [1.1290821 1.0873786 1.1677737 0.9849765]
+  Ortho Loss: 0.3881
+  Ortho Loss Each: [0.         0.03382691 0.04728162 0.4363947 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.0241327 -2.3126442 -2.9556148 -0.7923346]
+==================================================
+Epoch 32, Total Loss: 1.0140
+  PDE Loss: 0.6500
+  PDE Loss Each: [0.53078836 0.7789734  0.66059005 0.6298136 ]
+  Ortho Loss: 0.3640
+  Ortho Loss Each: [0.         0.03569595 0.04363648 0.40595007]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.0272782  -2.3379118  -2.9421272  -0.66050667]
+==================================================
+Epoch 33, Total Loss: 1.0800
+  PDE Loss: 0.7266
+  PDE Loss Each: [0.7848999  0.7885106  0.656586   0.67655367]
+  Ortho Loss: 0.3534
+  Ortho Loss Each: [0.         0.03472638 0.04114215 0.39532924]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.051566   -2.3565938  -2.936352   -0.55462635]
+==================================================
+Epoch 34, Total Loss: 1.1011
+  PDE Loss: 0.7682
+  PDE Loss Each: [0.71862984 0.8650055  0.8925683  0.5965228 ]
+  Ortho Loss: 0.3329
+  Ortho Loss Each: [0.         0.03021542 0.04422688 0.36948666]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.0715973 -2.2081625 -2.9768555 -0.5064345]
+==================================================
+Epoch 35, Total Loss: 1.1401
+  PDE Loss: 0.7813
+  PDE Loss Each: [0.886262   0.8016432  0.67120796 0.76625115]
+  Ortho Loss: 0.3587
+  Ortho Loss Each: [0.         0.03153431 0.08462063 0.36213705]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.0754573 -1.8607899 -3.0825415 -0.5038604]
+==================================================
+Epoch 36, Total Loss: 1.1085
+  PDE Loss: 0.7391
+  PDE Loss Each: [0.6988025  0.70873064 0.7513799  0.7973941 ]
+  Ortho Loss: 0.3695
+  Ortho Loss Each: [0.         0.02753405 0.10875801 0.35631904]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.1242008 -1.6964501 -3.202307  -0.5081411]
+==================================================
+Epoch 37, Total Loss: 1.4432
+  PDE Loss: 1.0732
+  PDE Loss Each: [1.0469552  1.3300904  1.0717653  0.84390765]
+  Ortho Loss: 0.3700
+  Ortho Loss Each: [0.         0.02314059 0.12227762 0.34789336]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.228328  -1.6022688 -3.3123357 -0.513011 ]
+==================================================
+Epoch 38, Total Loss: 1.1055
+  PDE Loss: 0.7388
+  PDE Loss Each: [0.48563135 0.66426325 0.90845156 0.89669275]
+  Ortho Loss: 0.3667
+  Ortho Loss Each: [0.         0.02060564 0.13144374 0.33690634]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.3340275  -1.54589    -3.4106529  -0.52733344]
+==================================================
+Epoch 39, Total Loss: 1.0073
+  PDE Loss: 0.6415
+  PDE Loss Each: [0.52939975 1.0937082  0.29318717 0.6496108 ]
+  Ortho Loss: 0.3658
+  Ortho Loss Each: [0.         0.02164201 0.1425875  0.3234798 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.4641235  -1.5165755  -3.5004508  -0.50724214]
+==================================================
+Epoch 40, Total Loss: 1.0384
+  PDE Loss: 0.6691
+  PDE Loss Each: [0.54124206 0.92714995 0.5258906  0.6822086 ]
+  Ortho Loss: 0.3693
+  Ortho Loss Each: [0.         0.02960292 0.15251338 0.31022584]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.8795426  -1.5062126  -3.575351   -0.46444765]
+==================================================
+Epoch 41, Total Loss: 1.4762
+  PDE Loss: 1.1121
+  PDE Loss Each: [1.0029013 1.3293734 1.0326467 1.0836674]
+  Ortho Loss: 0.3641
+  Ortho Loss Each: [0.         0.02430356 0.15862799 0.30247614]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.580132   -1.5505539  -3.6082332  -0.42836103]
+==================================================
+Epoch 42, Total Loss: 1.5030
+  PDE Loss: 1.1495
+  PDE Loss Each: [1.2641093 1.1161369 1.125055  1.092535 ]
+  Ortho Loss: 0.3536
+  Ortho Loss Each: [0.         0.02489086 0.16127948 0.28527775]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.7095866  -1.6079794  -3.6314132  -0.39826822]
+==================================================
+Epoch 43, Total Loss: 1.2488
+  PDE Loss: 0.8963
+  PDE Loss Each: [0.88670284 0.8526757  0.8534141  0.99246174]
+  Ortho Loss: 0.3525
+  Ortho Loss Each: [0.         0.0252293  0.1628793  0.28188774]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.2828736  -1.6633314  -3.6761844  -0.37132564]
+==================================================
+Epoch 44, Total Loss: 0.9619
+  PDE Loss: 0.5960
+  PDE Loss Each: [0.5807126  0.27861312 0.68420935 0.8403737 ]
+  Ortho Loss: 0.3659
+  Ortho Loss Each: [0.         0.02514021 0.16349979 0.29920152]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-4.019745   -1.7054943  -3.709117   -0.36986914]
+==================================================
+Epoch 45, Total Loss: 1.0278
+  PDE Loss: 0.6549
+  PDE Loss Each: [0.6624941  0.78649116 0.5394972  0.63128823]
+  Ortho Loss: 0.3728
+  Ortho Loss Each: [0.         0.02446679 0.16315083 0.30946386]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.8638852 -1.740088  -3.7305472 -0.375185 ]
+==================================================
+Epoch 46, Total Loss: 0.9256
+  PDE Loss: 0.5486
+  PDE Loss Each: [0.5645476  0.23209655 0.56231946 0.83544016]
+  Ortho Loss: 0.3770
+  Ortho Loss Each: [0.         0.02407002 0.1628329  0.315715  ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.7321138  -1.7489215  -3.7362678  -0.37361607]
+==================================================
+Epoch 47, Total Loss: 0.8565
+  PDE Loss: 0.4795
+  PDE Loss Each: [0.33918285 0.80302954 0.31998873 0.45580295]
+  Ortho Loss: 0.3770
+  Ortho Loss Each: [0.         0.02427884 0.16461408 0.31378207]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.6429718  -1.7851502  -3.7107856  -0.37214494]
+==================================================
+Epoch 48, Total Loss: 0.9525
+  PDE Loss: 0.5777
+  PDE Loss Each: [0.4387554  0.6984338  0.41643915 0.75719905]
+  Ortho Loss: 0.3748
+  Ortho Loss Each: [0.         0.02468272 0.16292565 0.31214085]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.5776632  -1.8237265  -3.6670368  -0.38062167]
+==================================================
+Epoch 49, Total Loss: 0.8450
+  PDE Loss: 0.4722
+  PDE Loss Each: [0.37214997 0.32121512 0.33219418 0.86314696]
+  Ortho Loss: 0.3728
+  Ortho Loss Each: [0.         0.02385517 0.16295262 0.31030822]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.5755224  -1.8588643  -3.6109552  -0.39046136]
+==================================================
+Epoch 50, Total Loss: 0.9106
+  PDE Loss: 0.5431
+  PDE Loss Each: [0.5276871  0.5055451  0.4410164  0.69820184]
+  Ortho Loss: 0.3675
+  Ortho Loss Each: [0.         0.02350402 0.16115312 0.3053609 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.5728195  -1.8806425  -3.5733967  -0.39045134]
+==================================================
+Epoch 51, Total Loss: 0.9645
+  PDE Loss: 0.5975
+  PDE Loss Each: [0.6261003  0.5676381  0.5770137  0.61941767]
+  Ortho Loss: 0.3669
+  Ortho Loss Each: [0.         0.02333252 0.16093457 0.30497578]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.571017   -1.8832811  -3.5695899  -0.39272368]
+==================================================
+Epoch 52, Total Loss: 0.5303
+  PDE Loss: 0.1641
+  PDE Loss Each: [ 0.18991382 -0.22202289  0.11255521  0.57575536]
+  Ortho Loss: 0.3663
+  Ortho Loss Each: [0.         0.02332119 0.16075265 0.30427042]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.5700934  -1.8849977  -3.564963   -0.38555312]
+==================================================
+Epoch 53, Total Loss: 0.8514
+  PDE Loss: 0.4860
+  PDE Loss Each: [0.5410177  0.397801   0.5388017  0.46623588]
+  Ortho Loss: 0.3654
+  Ortho Loss Each: [0.         0.0231386  0.16066177 0.3034371 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.565976   -1.886149   -3.5604916  -0.37873888]
+==================================================
+Epoch 54, Total Loss: 1.2161
+  PDE Loss: 0.8518
+  PDE Loss Each: [0.7595592  0.80210847 0.74834776 1.0970541 ]
+  Ortho Loss: 0.3643
+  Ortho Loss Each: [0.         0.02303851 0.16012843 0.30261195]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.5740273 -1.8868595 -3.5569108 -0.373585 ]
+==================================================
+Epoch 55, Total Loss: 1.0373
+  PDE Loss: 0.6743
+  PDE Loss Each: [0.7050643  0.5248757  0.83921415 0.6282317 ]
+  Ortho Loss: 0.3629
+  Ortho Loss Each: [0.         0.02286033 0.15983303 0.30120742]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.5833957  -1.8878704  -3.5512679  -0.36645642]
+==================================================
+Epoch 56, Total Loss: 0.9058
+  PDE Loss: 0.5439
+  PDE Loss Each: [0.6690652  0.58803636 0.5842571  0.33405805]
+  Ortho Loss: 0.3620
+  Ortho Loss Each: [0.         0.0226893  0.15955563 0.30041096]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.5907443 -1.8891569 -3.5465577 -0.3560443]
+==================================================
+Epoch 57, Total Loss: 1.1821
+  PDE Loss: 0.8211
+  PDE Loss Each: [0.88240975 0.80855376 0.8947425  0.69856626]
+  Ortho Loss: 0.3610
+  Ortho Loss Each: [0.         0.02252376 0.15920575 0.29963288]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.5963352  -1.8904697  -3.5433028  -0.35118806]
+==================================================
+Epoch 58, Total Loss: 0.9520
+  PDE Loss: 0.5912
+  PDE Loss Each: [0.40301934 0.6154972  0.72163606 0.6245122 ]
+  Ortho Loss: 0.3609
+  Ortho Loss Each: [0.         0.02237038 0.15883851 0.29994026]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.6002433 -1.8914957 -3.5402813 -0.3487648]
+==================================================
+Epoch 59, Total Loss: 0.7952
+  PDE Loss: 0.4353
+  PDE Loss Each: [0.3122147  0.5522668  0.35354933 0.52313644]
+  Ortho Loss: 0.3599
+  Ortho Loss Each: [0.         0.02226897 0.15849042 0.29917386]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.6034946  -1.8920614  -3.5308292  -0.33694696]
+==================================================
+Epoch 60, Total Loss: 1.1874
+  PDE Loss: 0.8286
+  PDE Loss Each: [0.87634414 0.8318545  0.6285723  0.97745275]
+  Ortho Loss: 0.3588
+  Ortho Loss Each: [0.         0.02252924 0.15857811 0.29729402]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.6039588 -1.8912712 -3.5102851 -0.3117521]
+==================================================
+Epoch 61, Total Loss: 0.5448
+  PDE Loss: 0.1873
+  PDE Loss Each: [ 0.11530459 -0.10173666  0.01562707  0.720166  ]
+  Ortho Loss: 0.3575
+  Ortho Loss Each: [0.         0.02241842 0.15787356 0.2963154 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.6023118  -1.8897463  -3.4887273  -0.29352742]
+==================================================
+Epoch 62, Total Loss: 1.1131
+  PDE Loss: 0.7568
+  PDE Loss Each: [0.75151896 0.84063834 0.6854088  0.74947315]
+  Ortho Loss: 0.3564
+  Ortho Loss Each: [0.         0.02241174 0.15722375 0.29553434]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.6039135  -1.8887519  -3.4732234  -0.28075448]
+==================================================
+Epoch 63, Total Loss: 1.7352
+  PDE Loss: 1.3807
+  PDE Loss Each: [1.4096161 1.3378807 1.3646623 1.4108223]
+  Ortho Loss: 0.3545
+  Ortho Loss Each: [0.         0.02159349 0.15702553 0.2940395 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.5959938  -1.8889147  -3.460122   -0.27283648]
+==================================================
+Epoch 64, Total Loss: 1.4741
+  PDE Loss: 1.1181
+  PDE Loss Each: [1.2421688 1.0785435 1.1604618 0.9914091]
+  Ortho Loss: 0.3560
+  Ortho Loss Each: [0.         0.02208575 0.15872712 0.29381156]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.504959   -1.8875666  -3.443093   -0.27081537]
+==================================================
+Epoch 65, Total Loss: 1.5493
+  PDE Loss: 1.1889
+  PDE Loss Each: [1.2345285 1.186906  1.2809573 1.0533038]
+  Ortho Loss: 0.3603
+  Ortho Loss Each: [0.         0.0238593  0.16151126 0.29508045]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.436289  -1.8865372 -3.429449  -0.2711148]
+==================================================
+Epoch 66, Total Loss: 1.6865
+  PDE Loss: 1.3233
+  PDE Loss Each: [1.3063858 1.24976   1.3622564 1.3749555]
+  Ortho Loss: 0.3632
+  Ortho Loss Each: [0.         0.02516814 0.1634471  0.29558966]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.391699   -1.8865083  -3.4185555  -0.27231327]
+==================================================
+Epoch 67, Total Loss: 1.2404
+  PDE Loss: 0.8756
+  PDE Loss Each: [0.9858367 0.8442879 0.9812498 0.6910203]
+  Ortho Loss: 0.3648
+  Ortho Loss Each: [0.         0.02610811 0.16483557 0.2954646 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.3618596 -1.8865747 -3.408057  -0.2720174]
+==================================================
+Epoch 68, Total Loss: 1.0870
+  PDE Loss: 0.7215
+  PDE Loss Each: [0.81885    0.703337   0.80944806 0.5543575 ]
+  Ortho Loss: 0.3655
+  Ortho Loss Each: [0.         0.02678295 0.16586156 0.29470006]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.3413365 -1.8870001 -3.3991776 -0.272127 ]
+==================================================
+Epoch 69, Total Loss: 1.0166
+  PDE Loss: 0.6509
+  PDE Loss Each: [0.64781    0.66150194 0.59379596 0.7003935 ]
+  Ortho Loss: 0.3657
+  Ortho Loss Each: [0.         0.02724842 0.16646695 0.29391524]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.3270428  -1.8886423  -3.3927135  -0.27248263]
+==================================================
+Epoch 70, Total Loss: 1.1646
+  PDE Loss: 0.7993
+  PDE Loss Each: [0.71608204 0.88226205 0.75654364 0.84224766]
+  Ortho Loss: 0.3653
+  Ortho Loss Each: [0.         0.02754621 0.16674678 0.29281643]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.3169196 -1.8909298 -3.3868763 -0.2735027]
+==================================================
+Epoch 71, Total Loss: 1.0900
+  PDE Loss: 0.7252
+  PDE Loss Each: [0.74939966 0.62910515 0.7776032  0.74488956]
+  Ortho Loss: 0.3648
+  Ortho Loss Each: [0.         0.02774771 0.16699569 0.29165733]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.3092234  -1.8925505  -3.38072    -0.27331844]
+==================================================
+Epoch 72, Total Loss: 1.1370
+  PDE Loss: 0.7729
+  PDE Loss Each: [0.7934749  0.746723   0.83501893 0.71652824]
+  Ortho Loss: 0.3641
+  Ortho Loss Each: [0.         0.02789736 0.16711874 0.2904047 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.3036947  -1.8938932  -3.3731756  -0.27260363]
+==================================================
+Epoch 73, Total Loss: 1.2393
+  PDE Loss: 0.8763
+  PDE Loss Each: [0.67063427 0.93967146 1.0112041  0.8836467 ]
+  Ortho Loss: 0.3630
+  Ortho Loss Each: [0.         0.02798581 0.16721351 0.2887691 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2990246  -1.8950204  -3.367236   -0.27435568]
+==================================================
+Epoch 74, Total Loss: 1.6465
+  PDE Loss: 1.2846
+  PDE Loss Each: [1.3880411 1.1998113 1.374896  1.1757396]
+  Ortho Loss: 0.3619
+  Ortho Loss Each: [0.         0.02806203 0.16699708 0.28748998]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2948837  -1.8964316  -3.3633854  -0.27396742]
+==================================================
+Epoch 75, Total Loss: 1.1567
+  PDE Loss: 0.7962
+  PDE Loss Each: [0.7145321  0.7326353  0.69457084 1.0431386 ]
+  Ortho Loss: 0.3605
+  Ortho Loss Each: [0.         0.02794472 0.16658032 0.28611287]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2916992  -1.8973831  -3.3615172  -0.27289775]
+==================================================
+Epoch 76, Total Loss: 0.9575
+  PDE Loss: 0.5983
+  PDE Loss Each: [0.59359527 0.85536146 0.5123531  0.43207836]
+  Ortho Loss: 0.3592
+  Ortho Loss Each: [0.         0.02785206 0.1663063  0.2847469 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2892783 -1.8973259 -3.3611994 -0.2729547]
+==================================================
+Epoch 77, Total Loss: 1.0027
+  PDE Loss: 0.6449
+  PDE Loss Each: [0.60856265 0.76849777 0.59894353 0.6037557 ]
+  Ortho Loss: 0.3578
+  Ortho Loss Each: [0.         0.0277286  0.1656001  0.28370866]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2873752  -1.8973665  -3.3630211  -0.27349553]
+==================================================
+Epoch 78, Total Loss: 1.2148
+  PDE Loss: 0.8585
+  PDE Loss Each: [0.58905905 1.1279681  0.44647607 1.2705759 ]
+  Ortho Loss: 0.3563
+  Ortho Loss Each: [0.         0.02716013 0.1651731  0.2827704 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2826822  -1.8973035  -3.3624055  -0.27290353]
+==================================================
+Epoch 79, Total Loss: 0.7294
+  PDE Loss: 0.3710
+  PDE Loss Each: [0.3449997  0.27616203 0.26068297 0.60223037]
+  Ortho Loss: 0.3584
+  Ortho Loss Each: [0.         0.02772562 0.16739877 0.2827355 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.251668   -1.8953053  -3.3501294  -0.26398313]
+==================================================
+Epoch 80, Total Loss: 1.2042
+  PDE Loss: 0.8422
+  PDE Loss Each: [0.88393164 0.66119695 1.0672269  0.75643843]
+  Ortho Loss: 0.3620
+  Ortho Loss Each: [0.         0.02892065 0.16956656 0.2842128 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2276735  -1.8937804  -3.3416293  -0.25696853]
+==================================================
+Epoch 81, Total Loss: 1.0210
+  PDE Loss: 0.6565
+  PDE Loss Each: [0.6254445  0.7353504  0.68145746 0.58393914]
+  Ortho Loss: 0.3644
+  Ortho Loss Each: [0.         0.02972734 0.17110181 0.2850817 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2135003  -1.8928499  -3.3378065  -0.25327262]
+==================================================
+Epoch 82, Total Loss: 1.5110
+  PDE Loss: 1.1456
+  PDE Loss Each: [1.273388   0.94739914 1.2944189  1.0670457 ]
+  Ortho Loss: 0.3654
+  Ortho Loss Each: [0.         0.03008107 0.17136674 0.2857922 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2184389  -1.8933121  -3.3478563  -0.25413176]
+==================================================
+Epoch 83, Total Loss: 0.8749
+  PDE Loss: 0.5093
+  PDE Loss Each: [0.6299858  0.4668111  0.58933705 0.3508831 ]
+  Ortho Loss: 0.3656
+  Ortho Loss Each: [0.         0.03027058 0.1712145  0.2860199 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2259376  -1.8940712  -3.3562944  -0.25542817]
+==================================================
+Epoch 84, Total Loss: 0.7813
+  PDE Loss: 0.4159
+  PDE Loss Each: [0.55086297 0.10642997 0.2448781  0.7612365 ]
+  Ortho Loss: 0.3655
+  Ortho Loss Each: [0.         0.03038716 0.17098089 0.28592965]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2331836  -1.8954884  -3.361791   -0.25666484]
+==================================================
+Epoch 85, Total Loss: 1.6144
+  PDE Loss: 1.2494
+  PDE Loss Each: [1.2360784 1.196474  1.2758106 1.2893904]
+  Ortho Loss: 0.3650
+  Ortho Loss Each: [0.         0.03040898 0.17075376 0.2854508 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2388346  -1.8961331  -3.3656683  -0.25716916]
+==================================================
+Epoch 86, Total Loss: 0.8802
+  PDE Loss: 0.5162
+  PDE Loss Each: [0.7296229  0.31251788 0.6852091  0.33755907]
+  Ortho Loss: 0.3640
+  Ortho Loss Each: [0.         0.03042702 0.17039108 0.28446057]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.243043   -1.8969607  -3.3647997  -0.25891578]
+==================================================
+Epoch 87, Total Loss: 1.4647
+  PDE Loss: 1.1017
+  PDE Loss Each: [1.1311984 1.0809822 1.1208496 1.0738095]
+  Ortho Loss: 0.3630
+  Ortho Loss Each: [0.         0.03044661 0.17024648 0.28326288]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2461154  -1.8984827  -3.3615797  -0.26115468]
+==================================================
+Epoch 88, Total Loss: 0.5117
+  PDE Loss: 0.1497
+  PDE Loss Each: [ 0.23538323  0.17996132  0.19969286 -0.01640384]
+  Ortho Loss: 0.3620
+  Ortho Loss Each: [0.         0.03044621 0.16999193 0.2822373 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2477162  -1.8998488  -3.3603647  -0.26286897]
+==================================================
+Epoch 89, Total Loss: 0.7868
+  PDE Loss: 0.4255
+  PDE Loss Each: [0.36786056 0.46793532 0.38351092 0.48266932]
+  Ortho Loss: 0.3613
+  Ortho Loss Each: [0.         0.03040238 0.16956143 0.28173804]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2485678  -1.9011608  -3.3597195  -0.26405737]
+==================================================
+Epoch 90, Total Loss: 1.0860
+  PDE Loss: 0.7257
+  PDE Loss Each: [0.614403   0.80834895 0.52009034 0.9598674 ]
+  Ortho Loss: 0.3603
+  Ortho Loss Each: [0.        0.0303698 0.1691577 0.2809184]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: 0.0000
+  Sobolev Loss Each: [-3.2493832  -1.9023155  -3.356446   -0.26441228]
+==================================================
+Epoch 91, Total Loss: -1.1947
+  PDE Loss: 0.6395
+  PDE Loss Each: [0.63768643 0.54825765 0.3795384  0.99243134]
+  Ortho Loss: 0.3595
+  Ortho Loss Each: [0.         0.03038999 0.16903944 0.2798407 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: -2.1937
+  Sobolev Loss Each: [-3.251915  -1.9048566 -3.35227   -0.2656745]
+==================================================
+Epoch 92, Total Loss: -0.6937
+  PDE Loss: 1.1526
+  PDE Loss Each: [1.1539606 1.3955363 0.93118   1.1297396]
+  Ortho Loss: 0.3586
+  Ortho Loss Each: [0.         0.03044283 0.16918533 0.27849016]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: -2.2049
+  Sobolev Loss Each: [-3.2609699  -1.9139344  -3.3722906  -0.27235165]
+==================================================
+Epoch 93, Total Loss: -1.2164
+  PDE Loss: 0.6520
+  PDE Loss Each: [0.50917244 0.9312025  0.40767157 0.7599044 ]
+  Ortho Loss: 0.3573
+  Ortho Loss Each: [0.         0.0303965  0.16930632 0.27667835]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: -2.2256
+  Sobolev Loss Each: [-3.2785196 -1.9295298 -3.4098122 -0.2846584]
+==================================================
+Epoch 94, Total Loss: -0.5874
+  PDE Loss: 1.3101
+  PDE Loss Each: [1.309539  1.3110625 1.3363422 1.2832998]
+  Ortho Loss: 0.3560
+  Ortho Loss Each: [0.         0.03029958 0.16962469 0.27477884]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: -2.2535
+  Sobolev Loss Each: [-3.3028996  -1.9489809  -3.4614747  -0.30058232]
+==================================================
+Epoch 95, Total Loss: -0.5470
+  PDE Loss: 1.3860
+  PDE Loss Each: [1.3641319 1.4231439 1.3349382 1.4216076]
+  Ortho Loss: 0.3545
+  Ortho Loss Each: [0.         0.03015157 0.1698999  0.27265048]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: -2.2874
+  Sobolev Loss Each: [-3.332166   -1.9713849  -3.5263927  -0.31984118]
+==================================================
+Epoch 96, Total Loss: -1.8267
+  PDE Loss: 0.1461
+  PDE Loss Each: [0.03759028 0.1955779  0.05425416 0.29715803]
+  Ortho Loss: 0.3528
+  Ortho Loss Each: [0.         0.02998094 0.17025156 0.2701247 ]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: -2.3256
+  Sobolev Loss Each: [-3.3649328  -1.9945723  -3.6002219  -0.34277225]
+==================================================
+Epoch 97, Total Loss: -1.0433
+  PDE Loss: 0.9717
+  PDE Loss Each: [0.9601021  0.9689865  1.0419985  0.91574246]
+  Ortho Loss: 0.3510
+  Ortho Loss Each: [0.         0.02981293 0.17045788 0.26777443]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: -2.3660
+  Sobolev Loss Each: [-3.3996036  -2.0186815  -3.672818   -0.37287524]
+==================================================
+Epoch 98, Total Loss: -1.3565
+  PDE Loss: 0.6988
+  PDE Loss Each: [0.70340854 0.80210644 0.6738403  0.615676  ]
+  Ortho Loss: 0.3504
+  Ortho Loss Each: [0.         0.02962633 0.17058814 0.26700258]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: -2.4056
+  Sobolev Loss Each: [-3.4354503  -2.0439417  -3.7341766  -0.40898573]
+==================================================
+Epoch 99, Total Loss: -1.2080
+  PDE Loss: 0.8862
+  PDE Loss Each: [0.61275405 1.0694767  0.7821296  1.0805352 ]
+  Ortho Loss: 0.3497
+  Ortho Loss Each: [0.         0.02940992 0.17102087 0.26586345]
+  Lipschitz Loss: 0.0000
+  Lipschitz Loss Each: [0. 0. 0. 0.]
+  Sobolev Loss: -2.4439
+  Sobolev Loss Each: [-3.4715846  -2.0699227  -3.784815   -0.44936812]
+==================================================
+Experiment end at: 2025-05-25 20:07:06.198734
