@@ -160,3 +160,16 @@ python train_fno.py --pde heat --train_samples 10 --n_delta 8 --transform_batch_
 # KdV equation
 python train_fno.py --pde kdv --train_samples 10 --n_delta 4 --transform_batch_size 32 --delta_exp lps_learning --sigma 0.1 0.1 0.1 0.1 --n_transform 16 --p_original 0.5 --seed [seed] --gpu [gpu]
 ```
+
+## Citation
+
+```bibtex
+@inproceedings{hu2025explicit,
+  title={Explicit Discovery of Nonlinear Symmetries from Dynamic Data},
+  author={Hu, Lexiang and Li, Yikang and Lin, Zhouchen},
+  booktitle={International Conference on Machine Learning},
+  pages={24509--24534},
+  year={2025},
+  organization={PMLR}
+}
+```
